@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "rpg game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexslo/jest-another-RPG.git"
+  },
+  "keywords": [
+    "rpg"
+  ],
+  "author": "Lex Slovik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexslo/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/lexslo/jest-another-RPG#readme"
+}
